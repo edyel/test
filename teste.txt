@@ -1,5 +1,7 @@
 <teste>
     alteracao1
     alteracao1 de novo
-    mais alteracao1
+    apagando-alteracao1-essa-ehalteracao2
+    alteracao2-dogit
+    alteracao2-denovo
 </teste>
