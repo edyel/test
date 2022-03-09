@@ -1,7 +1,3 @@
 <teste>
-    alteracao1
-    alteracao1 de novo
-    apagando-alteracao1-essa-ehalteracao2
-    alteracao2-dogit
-    alteracao2-denovo
+    Hello World!
 </teste>
